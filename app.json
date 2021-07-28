@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "chess-maps-mobile",
+    "slug": "chess-maps-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "chess-maps-mobile"
+}
