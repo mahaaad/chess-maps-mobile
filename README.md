@@ -6,3 +6,4 @@ to meet in person and play over the board games. Includes clock, scorekeeper, Ch
 ![image](https://i.imgur.com/IDsV5Hc.png)
 ![image](https://i.imgur.com/Dvo2PP3.png)
 
+![](https://i.imgur.com/cUjoTfG.png | width=100)
